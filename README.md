@@ -1,3 +1,5 @@
 # CSE134B-SS20-HW1
-# Name:
-# PID:
+
+# Name: Shirley Qi
+
+# PID: A15818203
